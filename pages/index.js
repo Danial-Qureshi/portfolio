@@ -17,6 +17,7 @@ import Collaboration from "@/components/Collaboration/Collabaration";
 import Contact from "@/components/Contact/Contact";
 import Footer from "@/components/Footer/Footer";
 import Scripts from "@/components/Scripts/Scripts";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { displayFancyLogs } from "utils";
 
 export default function Home() {
@@ -80,6 +81,7 @@ export default function Home() {
               <Contact />
             </main>
             <Footer />
+            <SpeedInsights />
             <Scripts />
           </>
         )}
