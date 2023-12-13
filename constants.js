@@ -222,4 +222,4 @@ export const WORK = [
   },
 ];
 
-export const GTAG = "G-5HCTL2TJ5W";
+export const GTAG = "G-PW9BJ72RWK";
