@@ -126,6 +126,15 @@ export const PROJECTS = [
     tech: ["typescript", "react", "nodejs", "firebase", "redux"],
   },
   {
+    name: "Airbnb",
+    image: "/projects/airbnb.webp",
+    blurImage: "/projects/blur/airbnb-blur.webp",
+    description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
+    gradient: ["#F14658", "#DC2537"],
+    url: "https://airbnb-clone-danial.vercel.app/",
+    tech: ["react", "nextjs", "tailwindcss", "mapbox"],
+  },
+  {
     name: "Verbena",
     image: "/projects/verbena.webp",
     blurImage: "/projects/verbena.webp",
@@ -173,6 +182,15 @@ export const PROJECTS = [
     gradient: ["#142D46", "#2E4964"],
     url: "https://github.com/Danial-Qureshi/tesla-App-UI",
     tech: ["typescript", "react", "nodejs"],
+  },
+  {
+    name: "The Movie DB",
+    image: "/projects/movie.webp",
+    blurImage: "/projects/movie.webp",
+    description: "A Movie Booking App design with :heart:",
+    gradient: ["#142D46", "#2E4964"],
+    url: "https://github.com/Danial-Qureshi/The-Movie-App",
+    tech: ["typescript", "react", "redux"],
   },
 ];
 
