@@ -108,12 +108,12 @@ export const PROJECTS = [
   {
     name: "Return Queen",
     image: "/projects/returnQueen.webp",
-    blurImage: "/projects/blur/returnQueen.webp",
+    blurImage: "/projects/returnQueen.webp",
     description:
       "ReturnQueen was born with a specific mission: provide fast, easy, stress-free returns for all.🛏️",
     gradient: ["#5B0888", "#713ABE"],
     url: "https://returnqueen.com/",
-    tech: ["react", "nextjs", "node", "firebase"],
+    tech: ["react", "nextjs", "nodejs", "firebase"],
   },
   {
     name: "VidiVet",
@@ -123,7 +123,7 @@ export const PROJECTS = [
       "we are on a mission to create the best pet care app designed for all the pet parents who want to proactively take care of their pet's✍🏻",
     gradient: ["#FFA62E", "#EA4D2C"],
     url: "https://vidivet.com/",
-    tech: ["typescript", "react", "node", "firebase", "redux"],
+    tech: ["typescript", "react", "nodejs", "firebase", "redux"],
   },
   {
     name: "Verbena",
@@ -133,7 +133,7 @@ export const PROJECTS = [
       "Verbina makes it easy to share messages of support to loved ones living with an illness.",
     gradient: ["#65B741", "#65B741"],
     url: "https://verbina.app/",
-    tech: ["typescript", "react", "node", "chakra-ui"],
+    tech: ["typescript", "react", "nodejs", "chakra-ui"],
   },
   {
     name: "Step",
@@ -143,7 +143,7 @@ export const PROJECTS = [
       "An app designed to help students to get better at there studies",
     gradient: ["#EF4040", "#EF4040"],
     url: "https://step.pgc.edu/",
-    tech: ["typescript", "react", "node", "firebase"],
+    tech: ["typescript", "react", "nodejs", "firebase"],
   },
   {
     name: "Mashtal Expo",
@@ -153,7 +153,7 @@ export const PROJECTS = [
       "An App tailored to help people and community of muslims in USA",
     gradient: ["#1B4242", "#092635"],
     url: "https://mashtalexpo.com/blog/Mashtal%20App",
-    tech: ["redux", "typescript", "react", "node"],
+    tech: ["redux", "typescript", "react", "nodejs"],
   },
   {
     name: "FikiFoo Food Delivery",
@@ -163,7 +163,7 @@ export const PROJECTS = [
       "A food deliverly app that serves in Islamabad && Rawalpindi region",
     gradient: ["#D80032", "#F9DEC9"],
     url: "https://play.google.com/store/apps/details?id=com.tekgenisys.fikifoo",
-    tech: ["typescript", "react", "node", "stripe"],
+    tech: ["typescript", "react", "nodejs", "stripe"],
   },
   {
     name: "Tesla",
@@ -172,7 +172,7 @@ export const PROJECTS = [
     description: "A Tesla React Native App 🏎️",
     gradient: ["#142D46", "#2E4964"],
     url: "https://github.com/Danial-Qureshi/tesla-App-UI",
-    tech: ["typescript", "react", "node"],
+    tech: ["typescript", "react", "nodejs"],
   },
 ];
 
